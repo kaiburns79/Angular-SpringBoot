@@ -21,3 +21,4 @@ public class SpringSecurityConfigBasicAuth extends WebSecurityConfigurerAdapter 
                 .httpBasic();
     }
 }
+
